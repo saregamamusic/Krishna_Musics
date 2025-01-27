@@ -62,7 +62,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🕸️ ᴛᴧᴘ тᴏ sᴇᴇ ᴍᴧɢɪᴄ 🕸️", url=f"https://t.me/komalchatbot"
+                text="🕸️ ᴛᴧᴘ тᴏ sᴇᴇ ᴍᴧɢɪᴄ 🕸️", url=f"https://t.me/anjalixmusicbot?startgroup=true"
             ),         
         ],   
     ]
@@ -80,7 +80,7 @@ def stream_markup(_, chat_id):
         ],
         [           
             InlineKeyboardButton(
-                text="🕸️ ᴛᴧᴘ тᴏ sᴇᴇ ᴍᴧɢɪᴄ 🕸️", url=f"https://t.me/komalchatbot"
+                text="🕸️ ᴛᴧᴘ тᴏ sᴇᴇ ᴍᴧɢɪᴄ 🕸️", url=f"https://t.me/anjalixmusicbot?startgroup=true"
             ),         
         ],   
     ]
