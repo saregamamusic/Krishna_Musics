@@ -165,16 +165,17 @@ str_3 : "ғᴀɪʟᴇᴅ ᴛᴏ sᴛʀᴇᴀᴍ ʏᴏᴜᴛᴜʙᴇ ʟɪᴠᴇ s
 ping_1 : "{0} ɪs ᴘɪɴɢɪɴɢ..."
 ping_2 : "🏓 ᴩᴏɴɢ : <code>{0}ᴍs</code>\n\n<b><u>{1} sʏsᴛᴇᴍ sᴛᴀᴛs :</u></b>\n\n↬ ᴜᴩᴛɪᴍᴇ : {2}\n↬ ʀᴀᴍ : {3}\n↬ ᴄᴩᴜ : {4}\n↬ ᴅɪsᴋ : {5}\n↬ ᴩʏ-ᴛɢᴄᴀʟʟs : <code>{6}ᴍs</code>"
 
-queue_1 : "Please Wait..Fetching Queue.."
-queue_2 : "Queued List is empty. No tracks found"
-queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
-queue_4 : "⏳ Added to Queue at **#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2}\n👤**Added By:** {3}"
-queue_5 : "Only one track inside queue, Please add some more to check list"
+queue_1 : "» ғᴇᴛᴄʜɪɴɢ ǫᴜᴇᴜᴇ...\n\nᴘʟᴇᴀsᴇ ᴡᴀɪᴛ..."
+queue_2 : "» ǫᴜᴇᴜᴇ ᴇᴍᴘᴛʏ."
+queue_3 : "<u>» ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs :</u> <a href={0}>ʜᴇʀᴇ</a>"
+queue_4 : "<blockquote>┏━━━━━━━━━━━━━━━━━⧫\n┠  <b>🍃 Aᴅᴅᴇᴅ Tᴏ Qᴜᴇᴜᴇ ᴀᴛ #{0} Iɴ Hᴀᴠᴇɴ🍃\n┗━━━━━━━━━━━━━━━━━⧫</blockquote>\n\n<blockquote><b>➣ Tɪᴛʟᴇ :</b> {1}\n<b>➦ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>➦ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}</blockquote>"
+queue_5 : "ᴛʜᴇʀᴇ's ᴏɴʟʏ ᴏɴᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋ ɪɴ ᴘʟᴀʏʟɪsᴛ.\n\nᴀᴅᴅ ᴍᴏʀᴇ ᴛʀᴀᴄᴋs ᴛᴏ ᴄʜᴇᴄᴋ ʟɪsᴛ."
+queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛɪᴏɴ sᴛʀᴇᴀᴍ\n\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
+queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
+queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "📡 **Started Streaming** 💡\n\n👤**Requested By:** {0}\n🔦**Information: **[Here]({1})"
-stream_2 : "📡 **Started Streaming via URL ** 💡\n\n👤**Requested By:** {0}"
-stream_3 : "📡 **Started Streaming** 💡\n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n👤**Requested By:** {2}"
-stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n👤**Requested By:** {3}"
+stream_1 : "<b><blockquote>Sᴛᴀʀᴛᴇᴅ | Pʟᴀʏɪɴɢ Iɴ Hᴇᴀᴠᴇɴ</b>\n\n<b>➣ Tɪᴛʟᴇ :</b> <a href={0}>{1}</a>\n<b>➦ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>➦ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}</blockquote>"
+stream_2 : "๏ <b>Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |</b>\n\n<b>‣ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>‣ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}</a>"
 
 
 CLOSE_BUTTON  : "ᴄʟᴏsᴇ"
